@@ -1,4 +1,4 @@
-## Original code for "Cyclic LIN-42/PERIOD Precisely Times Stage-Specific Cell Migration Through Gene Circuit Dynamics" 
+# Original code for "Cyclic LIN-42/PERIOD Precisely Times Stage-Specific Cell Migration Through Gene Circuit Dynamics" 
 [![DOI](https://zenodo.org/badge/975369832.svg)](https://doi.org/10.5281/zenodo.15621826)
 
 Here you can find the codes for the paper : Cyclic LIN-42/PERIOD precisely times stage-specific cell migration through gene circuit dynamics
@@ -6,7 +6,7 @@ Here you can find the codes for the paper : Cyclic LIN-42/PERIOD precisely times
 • Matlab 2021b
 • Python 3.9.7
 
-# Instructions for Running Simulations and Analyses
+## Instructions for Running Simulations and Analyses
 
 This document outlines how to use the provided MATLAB codebase for simulating and analyzing a gene regulatory network. It details procedures for deterministic and stochastic simulations, nullcline analysis, and investigations into SCF-DRE-1 activity and its onset time variations.
 
