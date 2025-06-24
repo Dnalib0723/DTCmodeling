@@ -101,4 +101,4 @@ This section describes how to perform a simple regulation test, corresponding to
 
 ---
 
-This document provides a comprehensive guide to utilizing the provided code for various biological simulations and analyses. By following these instructions, you can reproduce the figures mentioned and explore the underlying regulatory mechanisms.
+ By following these instructions, you can reproduce the figures mentioned and explore the underlying regulatory mechanisms.
